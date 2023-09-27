@@ -1,0 +1,160 @@
+
+body{
+    background-color: black;
+    color: white;
+}
+.cont-1{
+    display: flex;
+   padding: 20px;
+   align-content: center;
+   color: blue;
+   position: relative;
+    bottom: 800px;
+}
+.cont-1 h3{
+    padding-left: 50px;
+}
+svg{
+    position: relative;
+    left :600px ;
+    padding: 10px;
+}
+
+#main{
+  
+
+    position: relative;
+    margin-top: 0%;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.row1{
+    display: flex;
+    
+    align-items: center;
+    position: relative;
+    top: -500px;
+    left:90px;
+    
+}
+.row1 h3{
+    color: white;
+    padding: 20px;
+   
+}
+.row1 img{
+    width: 20px;
+}
+.row2{
+    font-size: 40px;
+    position: relative;
+    top: -497px;
+    left:90px;
+}
+.row3{
+    position: relative;
+    top: -493px;
+    left:90px;
+
+    
+
+}
+#fir{
+    border:none;
+    width: 100px;
+    height:40px;
+    
+    background-color: white;
+    color: black;
+}
+#sec{
+    order:none;
+    width: 150px;
+    height:40px;
+    
+    
+    background-color: #EDEADE;
+    color: white;
+    text-align: center;
+
+}
+#play{
+    fill:black;
+    position: relative;
+    left: -105px;
+    top:14px
+}
+#info{
+    position: relative;
+    left: -150px;
+    top:14px
+}
+.row4{
+    position:relative ;
+    top: -403px;
+    left:90px;
+}
+.row5{
+    position: relative;
+    margin-left: 100px;
+    top: -380px;
+    
+}
+.row5 img{
+    height: 100px;
+    
+
+}
+.row6{
+    position:relative ;
+    top: -323px;
+    left:90px;
+}
+.row6 img{
+    height: 100px;
+    padding: 80px;
+}
+.row7{
+    position: relative;
+    margin-left: 100px;
+    top: -380px;
+}
+.row7 img{
+    height: 100px;
+}
+.row8{
+    position:relative ;
+    top: -323px;
+    left:90px;
+
+}
+.row9{
+    position: relative;
+    margin-left: 100px;
+    top: -280px;
+    
+}
+.row9 img{
+    height: 100px;
+    
+
+}
+.row10{
+    position:relative ;
+    top: -223px;
+    left:90px;
+
+}
+.row11{
+    position: relative;
+    margin-left: 100px;
+    top: -180px;
+    
+}
+.row11 img{
+    height: 100px;
+    
+
+}
