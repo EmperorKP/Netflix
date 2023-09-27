@@ -1,17 +1,18 @@
 
 body{
-    background-color: black;
-    color: white;
+    background-color:#141414;
+    color: #141414;
+    
 }
 .cont-1{
     display: flex;
    padding: 20px;
    align-content: center;
-   color: blue;
+   color:white;
    position: relative;
-    bottom: 800px;
+    bottom: 900px;
 }
-.cont-1 h3{
+.cont-1 h2{
     padding-left: 50px;
 }
 svg{
@@ -21,8 +22,8 @@ svg{
 }
 
 #main{
+    height: 900px;
   
-
     position: relative;
     margin-top: 0%;
 }
@@ -95,6 +96,7 @@ svg{
     position:relative ;
     top: -403px;
     left:90px;
+    color: white;
 }
 .row5{
     position: relative;
@@ -110,7 +112,8 @@ svg{
 .row6{
     position:relative ;
     top: -323px;
-    left:90px;
+    left:70px;
+    color: white;
 }
 .row6 img{
     height: 100px;
@@ -118,13 +121,14 @@ svg{
 }
 .row7{
     position: relative;
-    margin-left: 100px;
-    top: -380px;
+    margin-left: 163px;
+    top: -500px;
 }
 .row7 img{
-    height: 100px;
+    height: 90px;
 }
 .row8{
+    color: white;
     position:relative ;
     top: -323px;
     left:90px;
@@ -142,6 +146,7 @@ svg{
 
 }
 .row10{
+    color: white;
     position:relative ;
     top: -223px;
     left:90px;
@@ -157,4 +162,31 @@ svg{
     height: 100px;
     
 
+}
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    color: #79807D;
+}
+.social{
+    position: relative;
+    left:-380px;
+
+    
+}
+.bt{
+    position: relative;
+    left:235px;
+}
+.btn{
+    border: solid 1px #79807D;
+    color: #79807D;
+    height: 35px;
+    width: 90px;
+    background-color:#141414;
+}
+.end{
+    position: relative;
+    left:235px;
+    color: #EDEADE;
 }
